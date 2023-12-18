@@ -1,23 +1,23 @@
-# prediciting_housing_prices
+Estimating Home Values with Machine Learning
+Author
+Manuel Aragon
+Abstract
+Accurately predicting house prices can be challenging due to the complex interplay of various factors. This project aims to develop a reliable machine learning model that provides valuable insights for stakeholders in the housing market, such as potential buyers, sellers, real estate agents, and investors. By utilizing machine learning techniques, we analyze large datasets containing historical house sales to identify patterns that can help predict future prices.
 
-Problem statement
-
-Accurately predicting house prices can be challenging due to the complex interplay of these factors. However, a reliable predictive model can provide valuable insights for stakeholders in the housing market, such as potential buyers and sellers, real estate agents, and investors. By utilizing machine learning techniques, it is possible to analyze large datasets containing historical house sales and identify patterns that can help predict future prices.
-![image](https://github.com/Manuel-Aragon/prediciting_housing_prices/assets/73243037/67c6a3cd-a005-4e44-a119-160e667e18b9)
-
+Housing Prices Prediction
 
 Datasets
-The project will use the "House Prices - Advanced Regression Techniques" dataset available on Kaggle, which contains 79 explanatory variables describing various aspects of residential homes in Ames, Iowa. 
-The dataset includes information on the size, location, age, quality, and condition of the houses, as well as features related to interior and exterior design, utilities, and neighborhood amenities.
-![image](https://github.com/Manuel-Aragon/prediciting_housing_prices/assets/73243037/16cb0aa5-5245-4785-8e91-45e81d4b2885)
+The project uses the "House Prices - Advanced Regression Techniques" dataset available on Kaggle. This dataset contains 79 explanatory variables describing various aspects of residential homes in Ames, Iowa. It includes information on the size, location, age, quality, and condition of the houses, as well as features related to interior and exterior design, utilities, and neighborhood amenities.
 
-Machine learning strategy
+Housing Dataset
+
+Machine Learning Strategy
 Supervised Learning
-labeled dataset 
-features and target variable (house prices) available.
-Feature Engineering and Selection:
-Apply feature selection techniques to identify the most relevant features, such as correlation analysis, mutual information, or recursive feature elimination.
-Model Selection: Experiment with Linear Regression, Decision Trees, and Random Forest algorithms and compare their performance.
+A labeled dataset with features and the target variable (house prices) is available.
+Feature Engineering and Selection
+Apply feature selection techniques, such as correlation analysis, mutual information, or recursive feature elimination, to identify the most relevant features.
+Model Selection
+Experiment with Linear Regression, Decision Trees, and Random Forest algorithms and compare their performance.
 ![image](https://github.com/Manuel-Aragon/prediciting_housing_prices/assets/73243037/d460b4cd-be87-4f32-baa2-928fa9b5a325)
 ![image](https://github.com/Manuel-Aragon/prediciting_housing_prices/assets/73243037/67c4d656-c17b-43fe-9695-22441e3fb040)
 
