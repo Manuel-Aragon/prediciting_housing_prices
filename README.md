@@ -28,4 +28,9 @@ Top 5 least correlated features with SalePrice: ['ExterQual_TA', 'KitchenQual_TA
 
 
 MODEL EVALUATION
+![4585ea1b-bd46-4aaa-9311-cc88743e5a4e](https://github.com/Manuel-Aragon/prediciting_housing_prices/assets/73243037/89b4e4c4-cdee-4f0c-a63c-d84b7eee03c4)
+
+
+
+
 
