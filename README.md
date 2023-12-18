@@ -1,7 +1,6 @@
-Estimating Home Values with Machine Learning
-Author
-Manuel Aragon
-Abstract
+#Estimating Home Values with Machine Learning
+
+#Abstract
 Accurately predicting house prices can be challenging due to the complex interplay of various factors. This project aims to develop a reliable machine learning model that provides valuable insights for stakeholders in the housing market, such as potential buyers, sellers, real estate agents, and investors. By utilizing machine learning techniques, we analyze large datasets containing historical house sales to identify patterns that can help predict future prices.
 
 Housing Prices Prediction
